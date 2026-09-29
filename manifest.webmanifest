@@ -1,0 +1,26 @@
+{
+  "name": "Builder Pro Command Center",
+  "short_name": "Builder Pro",
+  "description": "Builder Pro Consulting agency command center for client health, tasks, leads, and daily updates.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08090b",
+  "theme_color": "#ffcc2e",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "/builderpro-assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/builderpro-assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
